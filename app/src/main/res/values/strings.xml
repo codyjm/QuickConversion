@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Quick Conversion</string>
+    <string name="text_hint">Enter value</string>
+    <string name="default_result">0</string>
+
+
 </resources>
